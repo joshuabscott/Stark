@@ -1,0 +1,7 @@
+//Array yourArray
+//the number of execution times is entirely dependent on the size of the array
+
+for (int i = 0; i < yourArray.Count; i++)
+{
+    Console.WriteLine(yourArray[i]);
+}
